@@ -104,12 +104,10 @@ plt.subplot(122); plt.hist(img_eq.ravel(),256,range = [0, 256]); plt.title('Hist
 <img width="767" height="568" alt="Screenshot 2026-10-25 093152" src="https://github.com/user-attachments/assets/fb53bf8e-70b2-48e4-bb67-0695db2321f6" />
 
 ### Final Output of Original Image and Equalized 
-<img width="1382" height="442" alt="image" src="https://github.com/user-attachments/assets/063113e9-e85c-42b3-b1ad-0cbeffe57b68" />
-
-
-### Final Output of Original Image and its Histogram Equalized
 <img width="1377" height="523" alt="image" src="https://github.com/user-attachments/assets/6eaa0a49-5317-4f56-89cc-ca8d360357e8" />
 
+### Final Output of Original Image and its Histogram Equalized
+<img width="1382" height="442" alt="image" src="https://github.com/user-attachments/assets/063113e9-e85c-42b3-b1ad-0cbeffe57b68" />
 
 ## Result
 
